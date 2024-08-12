@@ -1,0 +1,12 @@
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\bin\Debug\MTPRAC!.exe.config
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\bin\Debug\MTPRAC!.exe
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\bin\Debug\MTPRAC!.pdb
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.csproj.AssemblyReference.cache
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.csproj.SuggestedBindingRedirects.cache
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC_.Form1.resources
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC_.Properties.Resources.resources
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.csproj.GenerateResource.cache
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.csproj.CoreCompileInputs.cache
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.exe
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC!.pdb
+C:\Users\meetp\OneDrive\Documents\Multi Sem3\MTPRAC!\obj\Debug\MTPRAC_.GUI.FormEmployee.resources

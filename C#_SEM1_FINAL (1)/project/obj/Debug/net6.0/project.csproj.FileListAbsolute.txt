@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\bin\Debug\net6.0\project.exe
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\bin\Debug\net6.0\project.deps.json
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\bin\Debug\net6.0\project.runtimeconfig.json
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\bin\Debug\net6.0\project.dll
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\bin\Debug\net6.0\project.pdb
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.dll
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\refint\project.dll
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.pdb
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\project.genruntimeconfig.cache
+C:\Users\DELL\Documents\La Salle\Courses\AP1\Assignment 1\project\obj\Debug\net6.0\ref\project.dll
